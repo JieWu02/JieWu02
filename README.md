@@ -2,3 +2,4 @@
 
 - 🎓 M.S. student at THU, with a AI background.
 - 🔭 Code Generation and Code Agent.
+- 🌐 [Personal homepage](https://jiewu02.github.io/)
